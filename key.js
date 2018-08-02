@@ -1,1 +1,1 @@
-export const mongoUri = 'mongo://localhost:27017/bookstores'
+export const mongoUri = 'mongodb://quocdu:Kinkazama1@ds263161.mlab.com:63161/bookstores'
