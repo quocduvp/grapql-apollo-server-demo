@@ -1,0 +1,1 @@
+export const mongoUri = 'mongo://localhost:27017/bookstores'
